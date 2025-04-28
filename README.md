@@ -82,11 +82,11 @@ Feel free to reach out and connect! Let's collaborate and build something amazin
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-     ![](https://github-readme-stats.vercel.app/api?username=adrianperdomoe/&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+       <img src="https://github-readme-stats.vercel.app/api?username=adrianperdomoe&theme=dark&hide_border=true&include_all_commits=true&count_private=true"alt="stats"/>
     </td>
     <td style="border: none;">
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianperdomoe&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianperdomoe&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top-langs"/>
     </td>
   </tr>
 </table>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianperdomoe/&theme=dark&hide_border=true)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianperdomoe&theme=dark&hide_border=true" alt="streak" />
