@@ -82,10 +82,11 @@ Feel free to reach out and connect! Let's collaborate and build something amazin
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianperdomoe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+     ![](https://github-readme-stats.vercel.app/api?username=adrianperdomoe/&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adrianperdomoe&show_icons=true&locale=en" alt="GitHub Stats" />
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianperdomoe&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
     </td>
   </tr>
 </table>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=adrianperdomoe/&theme=dark&hide_border=true)
